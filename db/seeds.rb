@@ -5,4 +5,4 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-Plant.create(name: 'hello', amount:20)
+Plant.create(name: 'hello', amount:20, date: 'Sep 16, 2020')
